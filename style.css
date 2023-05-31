@@ -1,0 +1,21 @@
+.header {
+    color: purple;
+    text-align: center;
+    font-size: 35px;
+}
+
+.recipes {
+    color: rgb(181, 124, 181);
+    background-color: white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+.sub {
+    color: black;
+    background-color: aqua;
+}
