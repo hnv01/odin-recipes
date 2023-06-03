@@ -9,7 +9,15 @@
     background-color: white;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-align: center;
+    padding: 10px 50px;
 }
+
+.recipes:hover {
+    background-color: bisque;
+    color: black;
+}
+
+
 
 div {
     text-align: center;
